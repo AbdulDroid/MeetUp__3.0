@@ -12,5 +12,10 @@ i.e. Call button should display "Call" on the EditText, message button "Message"
 ## Where to modify
 activity_main.xml and MainActivity.xml
 ## Screenshots
-<div> src=""
+<div align="center" markdown="1"> 
+<img src="https://github.com/lanre01/MeetUp__3.0/blob/master/app/src/main/res/drawable/Screenshot_2017-05-07-07-36-49.png"
+width="25%"/>
+<img width="18%"/>
+<img src="https://github.com/lanre01/MeetUp__3.0/blob/master/app/src/main/res/drawable/Screenshot_2017-05-07-08-06-30.png"
+width="25%"/>
 </div>
