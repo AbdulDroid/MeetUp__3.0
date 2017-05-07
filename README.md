@@ -10,7 +10,7 @@ on the EditText is cleared.
 Modify the code to respond to all numeric buttons and if you can make the funtion keys display text on the screen
 i.e. Call button should display "Call" on the EditText, message button "Message" and so on.
 ## Where to modify
-activity_main.xml and MainActivity.xml
+activity_main.xml and MainActivity.java
 ## Screenshots
 <div align="center" markdown="1"> 
 <img src="https://github.com/lanre01/MeetUp__3.0/blob/master/app/src/main/res/drawable/Screenshot_2017-05-07-07-36-49.png"
